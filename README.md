@@ -2,9 +2,6 @@
 
 Diese README-Datei bietet eine Übersicht über die BallierCup-Webseite. Die Webseite ist eine responsive Seite auf Basis von Bootstrap und wurde für das BallierCup-Event entwickelt. Sie zeigt Veranstaltungsdetails, Zeitpläne, Anmeldeinformationen und eine Galerie.
 
-## Inhaltsverzeichnis
-
-tbd
 
 ## Bibliotheken und Frameworks
 **Bootstrap 5.3.2**: Wird für das Layout, Buttons und die Akkordeon-Komponente verwendet und ermöglicht ein responsives Design.
